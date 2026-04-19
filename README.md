@@ -1,7 +1,7 @@
 # 🔳 P1X3ELZ AI
 
 <p align="center">
-  <img src="logo.png" width="200" alt="P1X3ELZ Logo">
+  <img src="./logo.png" width="200" alt="P1X3ELZ Logo">
 </p>
 
 ## ⚡ The Project
@@ -9,7 +9,7 @@
 
 ## 👑 The Architect
 This entire construct was envisioned and forged by **The Architect**. 
-* **Creator Profile:** [Link your Social Media or GitHub Profile here]
+* **Creator Profile:** [https://github.com/P1X3ELZ](https://github.com/P1X3ELZ)
 
 ## 🛠️ Tech Stack
 - **Framework:** FastAPI / Python

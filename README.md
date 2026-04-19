@@ -1,7 +1,7 @@
 # 🔳 P1X3ELZ AI
 
 <p align="center">
-  <img src="./logo.png" width="200" alt="P1X3ELZ Logo">
+  <img src="./Screenshot%202026-04-19%2011.58.47.png" width="200" alt="P1X3ELZ Logo">
 </p>
 
 ## ⚡ The Project
